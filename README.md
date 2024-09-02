@@ -7,4 +7,4 @@ I'm Bruce, a junior at UNC Chapel Hill studying Computer Science and Mathematics
 - classmate, a website on which students can plan their schedules and connect with friends
 - Luminary, an iOS app that provides accessible navigation on college campuses
 
-Feel free to check out some of my work at [Link text Here](https://brucereier.dev)
+Feel free to check out some of my work [here](https://brucereier.dev).
