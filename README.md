@@ -4,7 +4,6 @@ I'm Bruce, a senior at UNC Chapel Hill studying Computer Science and Mathematics
 
 ## I'm currently working on
 - Overhauling my personal site
-- Using Go for low-latency environments
 - Various forays in writing
 
 ## I previously worked on
